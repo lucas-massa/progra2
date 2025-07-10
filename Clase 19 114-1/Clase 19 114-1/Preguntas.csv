@@ -1,0 +1,51 @@
+pregunta,respuesta_1,respuesta_2,respuesta_3,respuesta_4,respuesta_correcta,veces_preguntada,aciertos,fallos
+¿Cuál es la capital de Argentina?,Buenos Aires,Córdoba,Rosario,Mendoza,1,168,1,0
+¿Qué río separa a Argentina de Uruguay?,Río Paraná,Río Colorado,Río de la Plata,Río Uruguay,3,110,0,1
+¿En qué provincia se encuentra la ciudad de Ushuaia?,Santa Cruz,Chubut,Tierra del Fuego,Neuquén,3,6,0,1
+¿Qué músico argentino compuso 'Canción Animal'?,Fito Páez,Gustavo Cerati,Charly García,Luis Alberto Spinetta,2,6,1,0
+¿Qué animal es símbolo de la fauna patagónica?,Yacaré,Puma,Guanaco,Tucán,3,6,0,1
+¿Qué científico argentino ganó el Premio Nobel en 1947?,Luis Leloir,César Milstein,Bernardo Houssay,René Favaloro,3,1,0,0
+¿Cuál es la capital de la provincia de Córdoba?,Río Cuarto,Córdoba,Carlos Paz,Villa María,2,0,0,0
+¿En qué año ganó Argentina su primer mundial de fútbol?,1978,1986,2002,1930,1,0,0,0
+¿Cuál es la Avenida más ancha del mundo ubicada en Buenos Aires?,Avenida de Mayo,Avenida Corrientes,Avenida 9 de Julio,Avenida Libertador,3,0,0,0
+¿Quién compuso la canción 'Gracias a la Vida'?,Mercedes Sosa,Charly García,Violeta Parra,Fito Páez,3,0,0,0
+¿Qué provincia es conocida por sus empanadas y la Casa Histórica?,Salta,Catamarca,Tucumán,La Rioja,3,0,0,0
+¿En qué ciudad nació Lionel Messi?,Rosario,Buenos Aires,Córdoba,Posadas,1,0,0,0
+¿Qué bebida es famosa en Argentina?,Tequila,Mate,Pisco,Café,2,0,0,0
+¿Quién es el autor de 'Martín Fierro'?,Jorge Luis Borges,José Hernández,Julio Cortázar,Ricardo Güiraldes,2,0,0,0
+¿Cuál es el pico más alto de Argentina?,Cerro Aconcagua,Cerro Tronador,Cerro Fitz Roy,Nevado Ojos del Salado,1,0,0,0
+¿Qué actriz argentina fue esposa de Juan Domingo Perón?,Tita Merello,Eva Perón,Libertad Lamarque,China Zorrilla,2,0,0,0
+¿Qué jugador argentino ganó 7 Balones de Oro?,Diego Maradona,Lionel Messi,Alfredo Di Stéfano,Mario Kempes,2,0,0,0
+¿Qué prócer argentino creó la bandera?,Domingo Sarmiento,José de San Martín,Manuel Belgrano,Juan Lavalle,3,0,0,0
+¿Qué ciudad argentina es famosa por su Fiesta Nacional de la Vendimia?,San Juan,Mendoza,Salta,Tucumán,2,0,0,0
+¿En qué provincia se encuentra la ciudad de Mendoza?,Santa Fe,San Juan,Mendoza,La Rioja,3,0,0,0
+¿Qué festividad se celebra el 25 de mayo en Argentina?,Día de la Independencia,Día de la Revolución de Mayo,Día de la Bandera,Día del Trabajador,2,0,0,0
+¿Qué provincia argentina es conocida por sus viñedos?,Salta,Mendoza,Jujuy,La Pampa,2,0,0,0
+¿Cuál es el símbolo químico del oro?,Au,Ag,O,Gd,1,0,0,0
+¿Qué escritora argentina ganó el Premio Cervantes en 2018?,Silvina Ocampo,María Elena Walsh,María Teresa Andruetto,Ida Vitale,3,0,0,0
+¿Qué actor protagonizó 'El secreto de sus ojos'?,Leonardo Sbaraglia,Guillermo Francella,Ricardo Darín,Pablo Rago,3,0,0,0
+¿Qué famoso cantante argentino popularizó el tango?,Astor Piazzolla,Carlos Gardel,Sandro,Luis Alberto Spinetta,2,0,0,0
+¿Qué cadena montañosa recorre el oeste argentino?,Los Pirineos,Los Alpes,Los Andes,La Sierra de Córdoba,3,0,0,0
+¿Cuál es el ave nacional de Argentina?,Cóndor,Ñandú,Hornero,Tero,3,0,0,0
+¿Cuál es el nombre del teatro más famoso de Buenos Aires?,Teatro Colón,Teatro Gran Rex,Teatro Nacional,Luna Park,1,0,0,0
+¿Qué importante científico desarrolló el bypass coronario?,Luis Leloir,Bernardo Houssay,César Milstein,René Favaloro,4,0,0,0
+¿Cuál es la ciudad más poblada del país?,Rosario,Buenos Aires,Córdoba,La Plata,2,0,0,0
+¿Qué famoso escritor argentino escribió 'Fervor de Buenos Aires'?,Jorge Luis Borges,Roberto Arlt,Ernesto Sabato,Manuel Puig,1,0,0,0
+¿Cuál es la danza tradicional de Argentina?,Salsa,Cumbia,Tango,Cueca,3,0,0,0
+¿Qué nombre recibe la región noreste de Argentina?,NOA,NEA,Pampa Húmeda,Patagonia,2,0,0,0
+¿En qué año fue elegido presidente Néstor Kirchner?,2000,2003,2007,1999,2,0,0,0
+¿Cuál es el nombre del famoso glaciar en la Patagonia?,Perito Moreno,Martial,Upsala,Viedma,1,0,0,0
+¿En qué provincia se encuentran las Ruinas de Quilmes?,Tucumán,Catamarca,Salta,Santiago del Estero,1,0,0,0
+¿Qué provincia limita con Bolivia y Paraguay?,Salta,Jujuy,Formosa,Chaco,3,0,0,0
+¿Qué ciudad fue sede de los Juegos Olímpicos de la Juventud 2018?,La Plata,Rosario,Buenos Aires,Córdoba,3,0,0,0
+¿Qué artista argentino pintó 'La canción del pueblo',Antonio Berni,Xul Solar,Benito Quinquela Martín,Eduardo Sívori,1,0,0,0
+¿Qué actriz protagonizó la película 'La historia oficial'?,Norma Aleandro,Graciela Borges,Soledad Silveyra,Cecilia Roth,1,0,0,0
+¿Qué moneda se utiliza en Argentina?,Dólar,Peso,Real,Euro,2,0,0,0
+¿Cuál es el nombre del equipo de fútbol conocido como 'La Academia'?,Boca Juniors,Racing Club,River Plate,San Lorenzo,2,0,0,0
+¿Cuál es la montaña más alta de América del Sur?,Cerro Bonete,Monte Pissis,Aconcagua,Nevado del Huila,3,0,0,0
+¿Qué deporte practica la selección conocida como 'Los Pumas'?,Fútbol,Hockey,Rugby,Básquet,3,0,0,0
+¿Qué periodista y conductor fue símbolo de la TV argentina y falleció en 2019?,Marcelo Tinelli,Chiche Gelblung,Juan Alberto Badía,Marcelo Zlotogwiazda,4,0,0,0
+¿En qué año fue la Guerra de las Malvinas?,1980,1982,1984,1978,2,0,0,0
+¿Cuál es el tren turístico que recorre la Patagonia?,Tren del Fin del Mundo,Tren de las Sierras,Tren Patagónico,Tren de la Quebrada,3,0,0,0
+¿Quién es conocido como el 'Padre de la Patria' en Argentina?,Juan Manuel de Rosas,José de San Martín,Manuel Belgrano,Bernardino Rivadavia,2,0,0,0
+¿Cuál es el océano que baña la costa este de Argentina?,Océano Atlántico,Océano Pacífico,Mar Caribe,Mar Mediterráneo,1,0,0,0
